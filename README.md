@@ -9,7 +9,7 @@ Youtube es una plataforma de video que permite a cualquier persona compartir sus
 # Casos de Uso
 - Inicio de Sesión
 - Reportar videos
-- Creación de Listado de reproducción
+- Creación de listado de reproducción
 - Crear canal
 - Crear shorts
 - Youtube Studio
